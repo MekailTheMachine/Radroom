@@ -17,3 +17,26 @@ Alternatively, token holders can apply for Gitcoin rounds, and other various fun
 
 Hackathon ; Using the tresurey to incentivize builders to build PG infrastructure for homelessness, and poverty causes
 to increase the annual econmoic bandiwdth in these areas. 
+
+
+"Make room in the space for more community. Our Rooms represent an initial project within the Ninit community, that reshapes how we approach decentralized governance and infrastructure.
+
+Rooms will be held to help facilitate and vote on proposals within the WAGMI Wheelhouse, on how community funds should be spent through quality assurance contracts, in an effort to rebuild infrastructure in an effort to alleviate poverty, and assist global refugees.
+
+
+
+Currently 157 billion dollars is lost or mismanaged annually within non-profit organizations, many of which assist these less fortunate communities.
+
+Rather directly funding these organizations, we aim to Increase their efficiency through larger political participation, and new transparent systems. Increase community. Prevent cases of fraud and embezzlement, and use the structures to begin approaching HOA boards, management companies, local and federal funding allocations and more. prevent poor vendor selection.
+
+Many of these systems poorly manage their reserve funds, and with today's technology, we have the capability of shifting that. Make room in the space for more community. Our Rooms represent an initial project within the Ninit community, that reshapes how we approach decentralized governance and infrastructure.
+
+Rooms will be held to help facilitate and vote on proposals within the WAGMI Wheelhouse, on how community funds should be spent through quality assurance contracts, in an effort to rebuild infrastructure in an effort to alleviate poverty, and assist global refugees. Currently 157 billion dollars is lost or mismanaged annually within non-profit organizations, many of which assist these less fortunate communities.
+
+Rather directly funding these organizations, we aim to Increase their efficiency through larger political participation, and new transparent systems. "
+
+
+Utility: 
+Gamified Hackathon participation, 
+Tangible impact updates, 
+Microloans: Allow room holders to allocate a portion of their treasury towards microloans, supporting entrepreneurial endeavors in impoverished communities.
