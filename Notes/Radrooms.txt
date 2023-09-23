@@ -1,0 +1,19 @@
+Radrooms:
+ 
+4 digital collections of rooms and couches; minting a room to make more room in the space.
+(400 Rooms per collection)
+
+Token revenue will be allocated into 4 seperate treasuries, serving and providing 3 main utility points. 
+
+1. The treasury pot will act as a liquidity pool for Room Holders. Each collection interacts with their unique pool.
+2. Proposals can be made to withdraw from the pot to fund public goods related to homelesness and poverty. 
+3. Holders can burn their token for immediate liquidity equating to the amount availble in the tresuresy divided by tokens in circuclation. 
+
+Holders can participate in governing systems to allow for funds to be spent, by writing proposlals, and using merit based voting systems, or flagging propsoals, depending on how the community votes to operate, giving the choice to the community.
+
+Alternatively, token holders can apply for Gitcoin rounds, and other various funds as a community to raise the value of their treasurey. 
+
+[THE ROOMATHON]
+
+Hackathon ; Using the tresurey to incentivize builders to build PG infrastructure for homelessness, and poverty causes
+to increase the annual econmoic bandiwdth in these areas. 
