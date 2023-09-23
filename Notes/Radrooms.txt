@@ -38,5 +38,13 @@ Rather directly funding these organizations, we aim to Increase their efficiency
 
 Utility: 
 Gamified Hackathon participation, 
-Tangible impact updates, 
+Tangible impact updates, (POI ; Proof of impact)
 Microloans: Allow room holders to allocate a portion of their treasury towards microloans, supporting entrepreneurial endeavors in impoverished communities.
+(Internal QF round?)
+
+Leaderboard: Leaderboard for participation, which collection has raised more funds? (Air drop to the collection that wins)
+
+Allow rooms members to vote on the MAGNETICS of proposals that got accepted, begininng an onchain reputation for many of these PG organizations. 
+
+
+
